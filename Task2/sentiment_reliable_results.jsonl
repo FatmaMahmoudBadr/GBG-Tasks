@@ -1,0 +1,8 @@
+{"input_text": "I absolutely loved the service… until it crashed.", "output": {"language": "en", "sentiment": "mixed"}}
+{"input_text": "Great job wasting my time.", "output": {"language": "en", "sentiment": "negative"}}
+{"input_text": "The meeting is scheduled for 3 PM.", "output": {"language": "en", "sentiment": "neutral"}}
+{"input_text": "This is not bad at all.", "output": {"language": "en", "sentiment": "positive"}}
+{"input_text": "الخدمة ممتازة ولكن التأخير غير مقبول.", "output": {"language": "ar", "sentiment": "mixed"}}
+{"input_text": "الدنيا تمام بس التطبيق طلع يقفل فجأة.", "output": {"language": "ar", "sentiment": "mixed"}}
+{"input_text": "يعني إيه خدمة عملاء؟ ولا حد بيرد.", "output": {"language": "ar", "sentiment": "negative"}}
+{"input_text": "الخدمة كانت great بس السعر مبالغ فيه.", "output": {"language": "ar", "sentiment": "mixed"}}
