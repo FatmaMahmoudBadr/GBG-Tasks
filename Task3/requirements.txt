@@ -1,0 +1,7 @@
+streamlit
+pandas
+sqlalchemy
+python-dotenv
+langchain-core
+langchain-google-genai
+pydantic
