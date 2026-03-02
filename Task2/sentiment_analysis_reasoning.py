@@ -104,10 +104,10 @@ def run_test_suite(test_cases, output_file="E:\GBG\LangChain\langchain_tasks\sen
 
             results.append(record)
 
-            print(f"✅ [{idx}/{len(test_cases)}] Done")
+            print(f"[{idx}/{len(test_cases)}] Done")
         
         except Exception as e:
-            print(f"❌ [{idx}] Failed:", e)
+            print(f"[{idx}] Failed:", e)
         time.sleep(12)
 
     # Save as JSONL (best for experiments)
@@ -117,3 +117,4 @@ def run_test_suite(test_cases, output_file="E:\GBG\LangChain\langchain_tasks\sen
 
     print(f"\n📁 Results saved to {output_file}")
 run_test_suite(test_cases)
+
