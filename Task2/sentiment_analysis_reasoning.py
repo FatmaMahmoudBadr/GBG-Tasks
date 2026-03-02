@@ -115,6 +115,7 @@ def run_test_suite(test_cases, output_file="E:\GBG\LangChain\langchain_tasks\sen
         for r in results:
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
 
-    print(f"\n📁 Results saved to {output_file}")
+    print(f"\nResults saved to {output_file}")
 run_test_suite(test_cases)
+
 
